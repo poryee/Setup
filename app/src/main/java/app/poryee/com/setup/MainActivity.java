@@ -11,6 +11,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 
+
+//comments 04/02 to test
 public class MainActivity extends AppCompatActivity {
 
     public final static String EXTRA_MESSAGE = "com.poryee.myfirstapp.MESSAGE";
